@@ -1,0 +1,12 @@
+{
+	"id": 2,
+	"name": "John Smith",
+	"email": "johnsmith@example.com",
+	"phone": "987654321",
+	"city": "New Delhi",
+	"state": "Delhi",
+	"country": "India",
+	"organization": "Company 2",
+	"jobProfile": "Software Developer",
+	"additionalInfo": "Non-frequent Buyer"
+}
